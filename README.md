@@ -1,2 +1,2 @@
 # Platform
-Platform to generate the signals 
+Platform to generate signals.
